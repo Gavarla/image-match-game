@@ -1,0 +1,52 @@
+.items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  align-self: flex-start;
+}
+
+.score-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 180px;
+  margin-right: 40px;
+}
+
+.timer-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+}
+
+.logo {
+  height: 35px;
+  width: 150px;
+  margin-left: 40px;
+}
+
+.timer-img {
+  height: 25px;
+  width: 25px;
+}
+
+.timer {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #fec653;
+}
+
+.score-count {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #fec653;
+}
+
+.score {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #fff;
+}
